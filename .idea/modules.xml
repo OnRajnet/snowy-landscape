@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/snowy-landscape.iml" filepath="$PROJECT_DIR$/.idea/modules/snowy-landscape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/snowy-landscape_main.iml" filepath="$PROJECT_DIR$/.idea/modules/snowy-landscape_main.iml" group="snowy-landscape" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/snowy-landscape_test.iml" filepath="$PROJECT_DIR$/.idea/modules/snowy-landscape_test.iml" group="snowy-landscape" />
+    </modules>
+  </component>
+</project>
